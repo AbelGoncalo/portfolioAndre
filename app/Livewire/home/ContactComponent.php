@@ -42,14 +42,14 @@ class ContactComponent extends Component
         $this->validate($this->rules, $this->messages);
 
         try {
-            
+
             Mail::to($this->email)->send(new FalaConnosco($this->mensagem, $this->name));
 
-            Messagem::create([
-                'name'=>$this->name,
-                'email'=>$this->email,
-                'mensagem'=>$this->mensagem
-            ]);
+            // Messagem::create([
+            //     'name'=>$this->name,
+            //     'email'=>$this->email,
+            //     'mensagem'=>$this->mensagem
+            // ]);
 
             $this->alert('success', 'SUCESSO', [
                 'toast' => false,

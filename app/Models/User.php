@@ -45,7 +45,5 @@ class User extends Authenticatable
     ];
 
 
-    public function agente(){   
-        return $this->belongsTo(Agente::class, 'agente_id', 'id');
-    }
+   
 }
