@@ -6,7 +6,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<link rel="icon" href="{{asset('home/img/favicon.png')}}" type="image/png">
-	<title>Five</title>
+	<title>EletroFisio</title>
 	<!-- Bootstrap CSS -->
 	<link rel="stylesheet" href="{{asset('home/css/bootstrap.css')}}">
 	<link rel="stylesheet" href="{{asset('home/vendors/linericon/style.css')}}">
@@ -45,13 +45,13 @@
 							</span>
 						</a>
 					</div>
-					
+
 				</div>
 			</div>
 		</div>
 
 		<div class="main_menu">
-			
+
 
 			<nav class="navbar navbar-expand-lg navbar-light">
 				<div class="container">
@@ -90,7 +90,7 @@
 						<li><a href="#">Sermões</a></li>
 						<li><a href="#">Palestras</a></li>
 
-						
+
 					</ul>
 				</div>
 				<div class="col-lg-4 col-md-6 single-footer-widget">
@@ -98,7 +98,7 @@
 					<ul>
 						<li><a href="#">Sobre nós</a></li>
 						<li><a href="#">Contactos</a></li>
-						
+
 					</ul>
 				</div>
 				<div class="col-lg-4 col-md-6 single-footer-widget">
@@ -108,7 +108,7 @@
 						<li><a href="#">Brasil</a></li>
 					</ul>
 				</div>
-				
+
 			</div>
 			<div class="row footer-bottom d-flex justify-content-between">
 				<p class="col-lg-8 col-sm-12 footer-text m-0 text-white">Copyright © 2024 Todos direitos reservedos | Desenvolvido por
@@ -116,7 +116,7 @@
 				<div class="col-lg-4 col-sm-12 footer-social">
 					<a href="#"><i class="fa fa-facebook"></i></a>
 					<a href="#"><i class="fa fa-twitter"></i></a>
-					
+
 				</div>
 			</div>
 		</div>
@@ -145,10 +145,10 @@
     <script defer src="plugins/OwlCarousel2.3/owl.carousel.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
-	
 
-	<!--  <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js"></script>  -->  
-	
+
+	<!--  <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js"></script>  -->
+
     <script defer src="plugins/OwlCarousel2.3/owl.carousel.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
@@ -159,7 +159,7 @@
 
 
     @livewireScripts
-    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 	<script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
     <x-livewire-alert::scripts />
 </body>

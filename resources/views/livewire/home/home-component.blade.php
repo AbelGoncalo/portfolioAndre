@@ -7,7 +7,7 @@
 					<div class="col-lg-6">
 						<div class="banner_content ">
 							<h2 class="fw-bold">
-								Serviços Cristãos 
+								Serviços Cristãos
 							</h2>
 							<p class="">
 								Agora ficou mais fácil fazer pesuisas Bíblicas, poupe seu tempo e deixe que nós façcamos pesquisa por ti.
@@ -160,7 +160,7 @@
 	</div>
 	<!--================ End Department Area =================-->
 
-	
+
 
 	<!--================ Start Fact Area =================-->
 	<div class="fact_area overlay">
@@ -194,7 +194,7 @@
 						<p class="lead">Quantos quiser. Não há limite para solicitações.</p>
 					</div>
 				</div>
-				
+
 				<!-- single features -->
 				<div class="col-lg-4 col-md-6">
 					<div class="single_fact">
@@ -205,7 +205,7 @@
 						<p class="lead">Se pagar uma taxa adicional, receberá um certificado de propriedade intelectual, expedido peleo orgão competente da republica do brasil.</p>
 					</div>
 				</div>
-				
+
 				<!-- single features -->
 				<div class="col-lg-4 col-md-6">
 					<div class="single_fact">
@@ -245,9 +245,3 @@
 	<!--================ End Fact Area =================-->
 </div>
 
-<script>
-    var typed = new Typed('.element', {
-      strings: ['palestra', 'sermões'],
-      typeSpeed: 50,
-    });
-  </script>
