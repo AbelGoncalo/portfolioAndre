@@ -8,6 +8,7 @@
     <title>EletroFisio</title>
     <!-- Bootstrap CSS -->
     @livewireStyles
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
     <link rel="icon" href="{{ asset('home/img/favicon.png') }}" type="image/png">
     <link rel="stylesheet" href="{{ asset('home/css/bootstrap.css') }}">
     <link rel="stylesheet" href="{{ asset('home/vendors/linericon/style.css') }}">
@@ -16,7 +17,6 @@
     <link rel="stylesheet" href="{{ asset('home/vendors/lightbox/simpleLightbox.css') }}">
     <link rel="stylesheet" href="{{ asset('home/vendors/nice-select/css/nice-select.css') }}">
     <link rel="stylesheet" href="{{ asset('home/vendors/animate-css/animate.css') }}">
-
     <link rel="stylesheet" href="{{ asset('home/css/style.css') }}">
 
     <!-- main css -->
@@ -155,7 +155,7 @@
     <script src="{{ asset('home/js/gmaps.min.js') }}"></script>
     <script src="{{ asset('home/js/theme.js') }}"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js"></script>
-    <script defer src="plugins/OwlCarousel2.3/owl.carousel.min.js"></script>
+    <script defer src="https://plugins/OwlCarousel2.3/owl.carousel.min.js"></script>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
@@ -180,7 +180,8 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
     <!-- Bootstrap JavaScript -->
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
-    <x-livewire-alert::scripts />
+
+
 </body>
 
 </html>
